@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (tracked structure via .gitkeep, but not raw/processed content)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Results / figures (uncomment if you don't want generated output in git)
+# results/*
+# figures/*
+# !results/.gitkeep
+# !figures/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
