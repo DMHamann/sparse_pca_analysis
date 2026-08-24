@@ -1,2 +1,5 @@
 # Runtime dependencies
 numpy
+pandas 
+matplotlib
+scikit-learn
