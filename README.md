@@ -1,4 +1,4 @@
-# sparse_pca_analysis
+# sparse_pca
 
 One-line description of what this project does and why.
 
